@@ -1,6 +1,6 @@
 # The Submission of Expert Systems with Applications
 
-# Documents for submitting to Expert Systems with Applications. This includes:
+Documents for submitting to Expert Systems with Applications. This includes:
 
 1. The ogirinal paper presented at PAKDD 2015 (camera ready version).
 
